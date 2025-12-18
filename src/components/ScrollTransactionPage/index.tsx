@@ -1,8 +1,8 @@
 
 const index = () => {
   return (
-    <div className="bg-[#E8E8E8] w-full overflow-x-hidden ">
-      <section className="max-w-[90%] mx-auto py-8 overflow-x-hidden">
+    <div className="bg-[#E8E8E8] ">
+      <section className="max-w-[90%] mx-auto py-8 ">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
           <div className="lg:sticky lg:top-[140px] self-start">
             <h1 className="font-semibold text-[44px] lg:text-[48px] leading-[1.2] text-left max-w-[60%] mb-6 text-4xl">

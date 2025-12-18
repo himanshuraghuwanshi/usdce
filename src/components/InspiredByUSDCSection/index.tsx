@@ -2,7 +2,7 @@ import patternImage from "../../assets/images/magicPatter.png";
 
 const InspiredByUSDCSection = () => {
   return (
-    <section className="relative  bg-[#5D6DFF] overflow-x-hidden">
+    <section className="relative  bg-[#5D6DFF] overflow-hidden">
        <img
         src={patternImage}
         alt=""

@@ -7,7 +7,7 @@ import figma2 from "../../assets/images/figma2.png";
 import figma3 from "../../assets/images/figma3.png";
 const index = () => {
   return (
-    <section className="relative w-full bg-[#5D6DFF] overflow-x-hidden">
+    <section className="relative w-full bg-[#5D6DFF] overflow-hidden">
        <img
         src={topLeftPattern}
         alt=""
