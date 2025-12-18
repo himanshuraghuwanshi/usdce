@@ -2,8 +2,8 @@ import leftBg from "../../assets/images/aboutBg.png";
 
 const index = () => {
   return (
-     <div>
-        <section className="relative bg-[#F2F2F2] overflow-hidden">
+     <div className="w-full overflow-x-hidden">
+        <section className="relative bg-[#F2F2F2] overflow-x-hidden">
       
        <img
         src={leftBg}

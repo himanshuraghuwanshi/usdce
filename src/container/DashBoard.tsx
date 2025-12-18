@@ -7,7 +7,7 @@ import ScrollSection from "../components/ScrollTransactionPage"
 import Tokenomics from "../components/TokenomicsPage"
 const DashBoard = () => {
   return (
-    <div>
+    <div className="">
       <Header></Header>
       <Main></Main>
       <InspiredBySection/>

@@ -7,8 +7,8 @@ import { motion } from "framer-motion";
 
 const index = () => {
   return (
-    <div className="">
-      <section className="bg-[#E8E8E8] grid grid-cols-1 lg:grid-cols-2 gap-5 lg:min-h-[calc(100vh-72px)] pt-[82px] py-10">
+    <div className="w-full overflow-x-hidden">
+      <section className="bg-[#E8E8E8] grid grid-cols-1 lg:grid-cols-2 gap-5 lg:min-h-[calc(100vh-72px)] pt-[82px] py-10 overflow-x-hidden">
         <div className="relative w-full z-10 text-center px-6 lg:pr-0 lg:pl-8 mb-10 lg:mb-0">
           <div className="flex items-center justify-center pb-8">
             <img
