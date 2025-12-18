@@ -88,16 +88,16 @@ const index = () => {
             />
           </div>
 
-          <div className="md:hidden relative w-full h-[360px] mt-4">
-            <div className="relative mx-auto w-[300px] max-w-full h-full">
-              <div className="absolute top-[-50px] left-7 w-[200px] h-[200px] z-10">
+          <div className="md:hidden relative w-full h-[320px] mt-4">
+            <div className="relative mx-auto w-[320px] max-w-full h-full">
+              <div className="absolute top-[-50px] left-[2px] w-[200px] h-[200px] z-10">
                 <div className="absolute -left-4 top-0 w-full h-full scale-[1.05] rounded-full rounded-br-none bg-[rgba(95,95,95,0.17)] min-[460px]:scale-[1.12]" />
                 <div className="relative w-full h-full rounded-full rounded-br-none overflow-hidden bg-[#E6E6E6]">
                   <img src={imageWomen} alt="" className="w-full h-full object-cover" />
                 </div>
               </div>
 
-              <div className="absolute top-[130px] left-[170px] w-[200px] h-[200px] z-20">
+              <div className="absolute top-[140px] left-[140px] w-[200px] h-[200px] z-20">
                 <div className="absolute inset-0 scale-[1.05] rounded-full rounded-tl-none bg-[rgba(95,95,95,0.17)] min-[460px]:scale-[1.12]" />
                 <div className="relative w-full h-full rounded-full rounded-tl-none overflow-hidden">
                   <img src={imageChart} alt="" className="w-full h-full object-cover" />

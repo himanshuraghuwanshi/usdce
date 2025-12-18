@@ -7,8 +7,8 @@ import token5 from "../../assets/images/token5.png"
 
 const index = () => {
   return (
-     <div className=" w-full overflow-x-hidden">
-        <div className="bg-[#5D6DFF] w-full overflow-x-auto">
+     <div className=" w-full ">
+        <div className="bg-[#5D6DFF] w-full">
       <section className=" mx-auto pb-10 w-full overflow-x-hidden">
         <div className="max-w-[90%] mx-auto">
           <div className="flex items-center justify-center gap-6 py-8 ">
