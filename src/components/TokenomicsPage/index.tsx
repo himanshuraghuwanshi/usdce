@@ -43,7 +43,7 @@ const index = () => {
             </div>
             <div className="order-1 lg:order-2 w-full lg:w-[55%] flex flex-col justify-between">
               <div className="flex items-start gap-4  border-b-2 pb-2 border-gray-400">
-                <img src={tokentype} alt="" className="w-5 h-5 mt-1" />
+                <img src={tokentype} alt="" className="w-5 h-5 sm:mt-1 mt-2" />
                 <div className="flex flex-col sm:flex-row gap-2 sm:gap-6 w-full">
                   <p
                     className="
@@ -68,7 +68,7 @@ const index = () => {
                 </div>
               </div>
               <div className="flex items-start gap-4  border-b-2 pb-2 border-gray-400">
-                <img src={token2} alt="" className="w-5 h-5 mt-1" />
+                <img src={token2} alt="" className="w-5 h-5 sm:mt-1 mt-2" />
                 <div className="flex flex-col sm:flex-row gap-2 sm:gap-6 w-full">
                   <p
                     className="
@@ -93,7 +93,7 @@ const index = () => {
                 </div>
               </div>
               <div className="flex items-start gap-4  border-b-2 pb-2 border-gray-400">
-                <img src={token3} alt="" className="w-5 h-5 mt-1" />
+                <img src={token3} alt="" className="w-5 h-5 sm:mt-1 mt-2" />
                 <div className="flex flex-col sm:flex-row gap-2 sm:gap-6 w-full">
                   <p
                     className="
@@ -118,7 +118,7 @@ const index = () => {
                 </div>
               </div>
               <div className="flex items-start gap-4  border-b-2 pb-2 border-gray-400">
-                <img src={token4} alt="" className="w-5 h-5 mt-1" />
+                <img src={token4} alt="" className="w-5 h-5 sm:mt-1 mt-2" />
                 <div className="flex flex-col sm:flex-row gap-2 sm:gap-6 w-full">
                   <p
                     className="
@@ -143,7 +143,7 @@ const index = () => {
                 </div>
               </div>
               <div className="flex items-start gap-4  border-b-2 pb-2 border-gray-400">
-                <img src={token5} alt="" className="w-5 h-5 mt-1" />
+                <img src={token5} alt="" className="w-5 h-5 sm:mt-1 mt-2" />
                 <div className="flex flex-col sm:flex-row gap-2 sm:gap-6 w-full">
                   <p
                     className="
