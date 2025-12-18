@@ -89,7 +89,7 @@ const index = () => {
           </div>
 
           <div className="md:hidden relative w-full h-[360px] mt-4">
-            <div className="relative mx-auto w-[380px] h-full">
+            <div className="relative mx-auto w-[300px] max-w-full h-full">
               <div className="absolute top-[-50px] left-7 w-[200px] h-[200px] z-10">
                 <div className="absolute -left-4 top-0 w-full h-full scale-[1.05] rounded-full rounded-br-none bg-[rgba(95,95,95,0.17)] min-[460px]:scale-[1.12]" />
                 <div className="relative w-full h-full rounded-full rounded-br-none overflow-hidden bg-[#E6E6E6]">
